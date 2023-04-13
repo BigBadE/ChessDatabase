@@ -1,0 +1,8 @@
+#body {
+    background-color: gray;
+}
+
+#next_move {
+    background-color: white;
+    border: black 1px;
+}
